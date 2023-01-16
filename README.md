@@ -1,11 +1,14 @@
+<a href="#"><img align="right" alt="Emanuel" style="height: 220px;" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMeQAAHX_zxT__kX8vjj2SzEkL399XnASkQlwx98C2ZpwqtrGoLwH7eTKYQLIOj8WeRAmoGcfTOv4YZCykw07_BBcE6EQ=w1872-h993"></a>
+
 ## Olá, eu sou o Emanuel Tavecia!
+  
 <div style="display: inline_block">
   <h4>Estou aprendendo:</h3>
   <a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="#"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="#"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="#"><img align="right" alt="Emanuel" style="height: 200px;" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gMeQAAHX_zxT__kX8vjj2SzEkL399XnASkQlwx98C2ZpwqtrGoLwH7eTKYQLIOj8WeRAmoGcfTOv4YZCykw07_BBcE6EQ=w1872-h993"></a>
+  
 </div>
   
   ##
@@ -21,6 +24,7 @@
 ##
 
 <div>
+  <br>
   <a href="#">
     <img height="166px" src="https://github-readme-stats.vercel.app/api?username=EmanuelTavecia&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
     <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTavecia&layout=compact&langs_count=7&theme=blue-green">
