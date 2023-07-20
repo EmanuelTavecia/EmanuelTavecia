@@ -1,7 +1,7 @@
-## Olá, eu sou o Emanuel Tavecia!
+## Hello, I'm Emanuel Tavecia!
   
 <div style="display: inline_block">
-  <h4>Estou aprendendo:</h4>
+  <h4>I'm learning:</h4>
   <a href="#"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="#"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="#"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
