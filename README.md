@@ -12,10 +12,12 @@
  
 <div>
   <br>
+ <a href="https://www.linkedin.com/in/emanueltavecia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:emanueltavecia@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5548991075741"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/emanuel.tavecia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCBxtNeQD3mQ-8pfEZ_SYEgw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    
 </div>
 
 ##
@@ -29,4 +31,3 @@
     <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTavecia&layout=compact&langs_count=7&theme=blue-green">
   </a>
 </div>
-  
