@@ -74,6 +74,7 @@
     "graphql"
   ],
   "prettier.semi": false,
+  "prettier.singleQuote": true,
   "[javascript]": {
     "editor.autoClosingBrackets": "always",
     "editor.defaultFormatter": "esbenp.prettier-vscode"
