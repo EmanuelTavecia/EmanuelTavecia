@@ -1,9 +1,11 @@
 {
   // window, themes, icons
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Catppuccin Macchiato",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "symbols",
+  "workbench.startupEditor": "newUntitledFile",
   "symbols.hidesExplorerArrows": false,
+  "breadcrumbs.enabled": true,
   // javascript/node.js
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -15,7 +17,8 @@
     "javascript": "javascriptreact",
     "typescript": "typescriptreact",
     "javascriptreact": "javascriptreact",
-    "typescriptreact": "typescriptreact"
+    "typescriptreact": "typescriptreact",
+    "postcss": "css"
   },
   // files and folders
   "files.autoSave": "afterDelay",
@@ -36,7 +39,6 @@
   // editor
   "editor.fontSize": 15,
   "editor.tabSize": 2,
-  "window.zoomLevel": 0.5,
   "editor.lineHeight": 22,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
@@ -49,12 +51,18 @@
   "editor.guides.bracketPairs": "active",
   "editor.wordWrap": "on",
   "window.commandCenter": true,
+  "editor.suggestSelection": "first",
+  "editor.linkedEditing": true,
   "editor.renderLineHighlight": "gutter",
   // terminal
+  "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrains Mono",
   "terminal.integrated.showExitAlert": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
   "terminal.integrated.env.windows": {},
   // eslint and prettier
   "eslint.format.enable": true,
@@ -142,6 +150,7 @@
     "Omni",
     "Onboarded",
     "pallas",
+    "polacode",
     "postgres",
     "postgresql",
     "prefetch",
@@ -201,6 +210,11 @@
   },
   // tabnine
   "tabnine.experimentalAutoImports": true,
+  // polacode
+  "polacode.transparentBackground": true,
+  "polacode.target": "snippet",
+  // console ninja
+  "console-ninja.featureSet": "Community",
   // security
   "security.workspace.trust.untrustedFiles": "newWindow"
 }
