@@ -1,7 +1,7 @@
 # 👋🏻 Hello, I'm Emanuel Tavecia!
 
-- 🚀 Estudante de desenvolvimento Web
-- 🚀 Atualmente faço o curso Explorer da Rocketseat
+- 🚀 Web development student.
+- 🚀 I am currently studying Rocketseat's Explorer course.
 
 ## 💻 I'm learning:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
