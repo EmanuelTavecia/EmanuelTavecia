@@ -1,7 +1,7 @@
 # 👋🏻 Hello, I'm Emanuel Tavecia!
 
 - 💻 Front-end Developer
-- 👨🏻‍💻 Working at Elevcode
+- 👨🏻‍💻 Working at Controlle
 - 🏫 Computer Science student
 - 🚀 Rocketseat student
 
