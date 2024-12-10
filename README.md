@@ -1,6 +1,6 @@
 # 👋🏻 Hello, I'm Emanuel Tavecia!
 
-- 💻 Front-end Developer
+- 💻 Front-end and Mobile Developer
 - 👨🏻‍💻 Working at Controlle
 - 🏫 Computer Science student
 
